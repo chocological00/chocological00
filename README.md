@@ -1,4 +1,4 @@
-### Hi there 👋
+# I don't use Github - Click [here](https://gitlab.com/chocological00) for my Gitlab!
 
 <!--
 **chocological00/chocological00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
